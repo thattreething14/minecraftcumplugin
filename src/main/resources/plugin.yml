@@ -1,0 +1,5 @@
+name: cumplugin
+version: '${project.version}'
+main: site.albaniacraft.cumplugin.Cumplugin
+api-version: '1.20'
+description: shits bout to go down
